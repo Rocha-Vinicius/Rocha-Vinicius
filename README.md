@@ -10,13 +10,12 @@
 - ✨ I'm currently learning on the frontend
 
 
-### Contact :phone:	
-<div>
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/rochaavinicius/)
-     
-      <a href = "mailto: rochaa.vinicius@outlook.com"><img width="120" height="28" alt="email" src="https://i.imgur.com/br4ddNw.png" target="_blank"></a>
-</div>
+### Contact me:
 
+ <div>
+  <a href = "mailto: rochaa.vinicius@outlook.com"><img src="https://i.imgur.com/br4ddNw.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rochaavinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## Github Stats :octocat:
   <div>
