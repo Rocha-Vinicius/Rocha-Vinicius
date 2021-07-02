@@ -12,7 +12,6 @@
 
 ### Contact :phone:	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/rochaavinicius/)
-[![Outlook Badge](https://cdn.icon-icons.com/icons2/2530/PNG/512/outlook_button_icon_151845.png)](rochaa.vinicius@outlook.com)
 
 ## Github Stats :octocat:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocha-Vinicius&layout=compact&theme=buefy)](https://github.com/Rocha-Vinicius/github-readme-stat)
