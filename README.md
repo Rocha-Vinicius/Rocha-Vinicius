@@ -12,7 +12,7 @@
 
 ### Contact :phone:	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/rochaavinicius/)
-<img align = "center" width="40" height="40" alt="email" src="https://i.imgur.com/br4ddNw.png"> 
+<img width="100" height="100" alt="email" src="https://i.imgur.com/br4ddNw.png"> 
 ## Github Stats :octocat:
   <div>
   <a href="https://github.com/Rocha-Vinicius">
