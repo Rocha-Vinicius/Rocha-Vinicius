@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/rochaavinicius/)
 
 ## Github Stats :octocat:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocha-Vinicius&layout=compact&theme=buefy)](https://github.com/Rocha-Vinicius/github-readme-stat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocha-Vinicius&layout=compact&theme=dracula)](https://github.com/Rocha-Vinicius/github-readme-stat)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocha-Vinicius)](https://github.com/anuraghazra/github-readme-stats)
 
