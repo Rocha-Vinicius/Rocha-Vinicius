@@ -14,7 +14,7 @@
 
  <div>
   <a href="https://www.linkedin.com/in/rochaavinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto: rochaa.vinicius@outlook.com"><img width="120" height="30" src="https://i.imgur.com/br4ddNw.png" target="_blank"></a>
+ <a href = "mailto: rochaa.vinicius@outlook.com"><img width="110" height="30" src="https://i.imgur.com/br4ddNw.png" target="_blank"></a>
 </div>
 
 ## Github Stats :octocat:
