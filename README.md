@@ -5,7 +5,7 @@
 
 
 ### About: 
-- 💻 I work at <a href="https://www.sbmtechnology.com.br/"  target="_blank">SBM Technology<\a> 
+- 💻 I work at SBM Technology
 - 👩‍💻 Estácio de Sá - Analysis And Systems Development
 - 📚 Bootcamp Genaration Brazil - Java Full Stack Developer 
 - ✨ I'm currently learning on the frontend
