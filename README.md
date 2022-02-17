@@ -24,10 +24,12 @@
   <a href="https://github.com/Rocha-Vinicius">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rocha-Vinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocha-Vinicius&layout=compact&langs_count=16&theme=dracula"/>
+  
+  ![Snake animation] (https://github.com/Rocha-Vinicius/Rocha-Vinicius/blob/output/github-contribuition-grid-snake.svg)
 <div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="left"> 
   <a href="http://www.w3.org/2000/svg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"  width="40" height="40"/>
   </a>
  <a href="https://www.w3schools.com/bootstrap/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40"/>
@@ -37,6 +39,8 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5"     width="40" height="40"/>
   </a>  
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
@@ -50,7 +54,7 @@
   </a>
   <a href="https://git-scm.com/doc" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 
 ### Hobbies :jack_o_lantern:
