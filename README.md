@@ -25,7 +25,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rocha-Vinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocha-Vinicius&layout=compact&langs_count=16&theme=dracula"/>
 
-  ![Snake animation](https://github.com/Rocha-Vinicius/Rocha-Vinicius/blob/main/.github/workflows/snake.yml)
+![Snake animation](https://github.com/Rocha-Vinicius/Rocha-Vinicius/blob/output/github-contribution-grid-snake.svg)
 <div>
 
 <h3 align="left">Languages and Tools:</h3>
