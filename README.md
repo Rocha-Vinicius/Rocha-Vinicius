@@ -14,8 +14,9 @@
 ### Contact me:
 
  <div>
-  <a href="https://www.linkedin.com/in/rochaavinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto: rochaa.vinicius@outlook.com"><img width="125" height="28" src="https://i.imgur.com/br4ddNw.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rochaavinicius/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="60" target="_blank">
+  </a>
+ <a href = "mailto: rochaa.vinicius@outlook.com"><img src="https://img.icons8.com/color/60/000000/ms-outlook.png" target="_blank"></a>
 </div>
 
 ## Github Stats :octocat:
@@ -45,9 +46,9 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  width="40" height="40"/>
   </a> 
-  <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
+  <a href="https://docs.github.com/pt" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
   </a>
-  <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   </a>
 </p>
 
