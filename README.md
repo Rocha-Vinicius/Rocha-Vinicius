@@ -32,6 +32,8 @@
 <div align="left"> 
   <a href="http://www.w3.org/2000/svg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"  width="40" height="40"/>
   </a>
+  <a href="https://www.primefaces.org/primeng/" target="_blank"><img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?ssl=1"  width="40" height="40"/>
+ </a>
  <a href="https://www.w3schools.com/bootstrap/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40"/>
  </a>
   <a href="https://www.w3schools.com/ionic/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40"/>
