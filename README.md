@@ -9,7 +9,7 @@
 - 👩‍💻 Estácio de Sá - Analysis And Systems Development
 - 📚 Bootcamp Genaration Brazil - Java Full Stack Developer 
 - ✨ I'm currently learning on the frontend
-
+- 📑 Currículo - https://viniciusrocha.herokuapp.com/
 
 ### Contact me:
 
