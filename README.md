@@ -5,13 +5,13 @@
 
 
 ### About: 
+-  <a style="color: #ffff;" href="https://viniciusrocha.herokuapp.com/" target="_blank">Currículo
+  </a>
 - 💻 I work at SBM Technology
 - 👩‍💻 Estácio de Sá - Analysis And Systems Development
 - 📚 Bootcamp Genaration Brazil - Java Full Stack Developer 
 - ✨ I'm currently learning on the frontend
-- 📑 <a style="color: #ffff" href="https://viniciusrocha.herokuapp.com/" target="_blank">Currículo
-  </a>
- 
+
 ### Contact me:
 
  <div>
